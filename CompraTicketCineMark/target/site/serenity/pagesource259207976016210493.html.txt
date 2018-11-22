@@ -1,0 +1,1514 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" class="js " lang="en"><!-- HTML header with browser directives --><head>
+     <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+<title>Movie - Cinemark Colombia 2018</title>
+
+<link rel="shortcut icon" href="https://cinemarkco.modyocdn.com/uploads/dcd3d02e-5847-4724-8b5e-69bc40b66d41/C16x16/favicon.ico" />
+      <meta name="apple-mobile-web-app-capable" content="yes" />
+      <link rel="apple-touch-icon" href="https://cinemarkco.modyocdn.com/uploads/325d0cac-c919-44f6-a744-9a7c7f488e6f/C57x57/icon_apple.png" />
+      <link rel="apple-touch-icon" sizes="72x72" href="https://cinemarkco.modyocdn.com/uploads/325d0cac-c919-44f6-a744-9a7c7f488e6f/C72x72/icon_apple.png" />
+      <link rel="apple-touch-icon" sizes="114x114" href="https://cinemarkco.modyocdn.com/uploads/325d0cac-c919-44f6-a744-9a7c7f488e6f/C114x114/icon_apple.png" />
+      <link rel="apple-touch-icon" sizes="144x144" href="https://cinemarkco.modyocdn.com/uploads/325d0cac-c919-44f6-a744-9a7c7f488e6f/C144x144/icon_apple.png" />
+
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="description" content=" " />
+<meta name="keywords" content="cine, cine colombia, cinemark,cartelera de cine, estrenos de cine,cartelera cinemark ,peliculas en cartelera, proximos estrenos, estrenos cine,comprar entradas cine, " />
+<meta name="author" content="Cinemark Colombia 2018" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<!-- Open Graph Support for Platform Resources -->
+
+
+<!-- Google Tag Manager -->
+<script src="https://connect.facebook.net/signals/config/141030160037727?v=2.8.33&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TPN3PX8"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TPN3PX8');</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager -->
+
+<!-- Google Webmaster -->
+<meta name="google-site-verification" content="swtEsOftC1U-Gh11WXCiJ1FXqkKzNLkY4ARvHSxt2Dk" />
+<!--FIN-->
+
+<!-- Google Maps
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDmzoNzn-VwR91NHXG3dx81j94JLc8sBTE" ></script>-->
+
+<!-- Fonts -->
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700" rel="stylesheet" />
+
+
+<script>
+	const site_url = "https://www.cinemark.com.co"; //this variable is available for all components
+  const membership_access_token = "";
+  const site_logout = "https://mi.cinemark.com.co/logout?site=c59925ff-f7c9-4d5a-9a11-033c403d77bd";
+	const site_uuid = "c59925ff-f7c9-4d5a-9a11-033c403d77bd";
+	const account_url = "https://mi.cinemark.com.co";
+	const user_uuid = "";
+	const user_id = "";
+	const membership_id = "";
+	const membership_uuid = "";
+	const user_last_name = "";
+	const user_first_name = "";
+	const user_email = "";
+</script>
+
+<link href="https://www.cinemark.com.co/stylesheets/site-9af2ec9be7a59bdbe6d184f6c9084a50496b717aade5bd9cf1b75a7c0d221f96.css" media="screen" rel="stylesheet" type="text/css" />
+<script src="https://www.cinemark.com.co/javascript/site-9af2ec9be7a59bdbe6d184f6c9084a50496b717aade5bd9cf1b75a7c0d221f96.js" type="text/javascript"></script><style type="text/css">.carousel-3d-container[data-v-c06c963c]{min-height:1px;width:100%;position:relative;z-index:0;overflow:hidden;margin:20px auto;box-sizing:border-box}.carousel-3d-slider[data-v-c06c963c]{position:relative;margin:0 auto;transform-style:preserve-3d;-webkit-perspective:1000px;-moz-perspective:1000px;perspective:1000px}</style><style type="text/css">.carousel-3d-controls[data-v-43e93932]{position:absolute;top:50%;height:0;margin-top:-30px;left:0;width:100%;z-index:9099}.next[data-v-43e93932],.prev[data-v-43e93932]{width:60px;position:absolute;z-index:9999;font-size:60px;height:60px;line-height:60px;color:#333;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;text-decoration:none;top:0}.next[data-v-43e93932]:hover,.prev[data-v-43e93932]:hover{cursor:pointer;opacity:.7}.prev[data-v-43e93932]{left:10px;text-align:left}.next[data-v-43e93932]{right:10px;text-align:right}.disabled[data-v-43e93932],.disabled[data-v-43e93932]:hover{opacity:.2;cursor:default}</style><style type="text/css">.carousel-3d-slide{position:absolute;opacity:0;visibility:hidden;overflow:hidden;top:0;border-radius:1px;border-color:#000;border-color:rgba(0,0,0,.4);border-style:solid;background-size:cover;background-color:#ccc;display:block;margin:0;box-sizing:border-box;text-align:left}.carousel-3d-slide img{width:100%}.carousel-3d-slide.current{opacity:1!important;visibility:visible!important;transform:none!important;z-index:999}</style>
+
+<!-- CSRF meta tags -->
+
+
+
+<link rel="stylesheet" type="text/css" media="all" href="https://www.cinemark.com.co/widget_manager/54087219-ba26-4d2f-8fa6-1f74aa7e08e4/d157cd9f56eb6d53a61cb9d3a570b1344ab5f3f67e2c529d08ad10ad74057e0c.css" /><script type="text/javascript" src="/assets/session/libs/jquery-05581a8a2be648cb3b588d6f2860d957a1cd30ad56de14b6914b2eb4d560775d.js"></script><link rel="stylesheet" type="text/css" media="all" href="/assets/session/base-672913a28b8926bf182f5fed6c1db6edfb4c02326eb3e3337316387f85edd3f2.css" /><script type="text/javascript" src="https://www.cinemark.com.co/widget_manager/54087219-ba26-4d2f-8fa6-1f74aa7e08e4/d157cd9f56eb6d53a61cb9d3a570b1344ab5f3f67e2c529d08ad10ad74057e0c.js"></script></head>
+
+    <body id="home" class="context-layouts context-layouts-show context-layouts-show-movie " style="">
+       <!-- Body with automatic context classes -->
+<div class="container-max-site">
+<!-- HTML Templates -->
+
+<template id="alert-component">
+     <div>
+          <div class="alert-notification-background" v-if="show &amp;&amp; !is_inline">
+               <div class="room-notification alert-notification">
+                    <div class="row" v-if="!is_inline">
+
+                         <div class="col-md-12 box-right">
+                              <div class="alert-notification-body">
+                                   <h4 v-show="options.err_description">{{options.err_description}}</h4>
+                                   <h3>{{message}}</h3>
+                                   <small v-if="show_error &amp;&amp; code">[ {{code}} ]</small>
+                                   <button class="close-button-alert" type="button" v-on:click="fireClose()">
+                                        <i class="icon-remove" aria-hidden="true"></i>
+                                   </button>
+                              </div>
+
+                              <div :class="['alert-notification-footer-action', getClassConfirmButton()]">
+
+                                   <div v-if="status.id == 'confirm'" class="container-button accept-button">
+                                        <button type="button" v-on:click="fireConfirm()">{{ options.label_confirm }}</button>
+                                   </div>
+                                   <div class="container-button close-button">
+                                        <button type="button" v-on:click="fireClose()">{{ options.label_close }}</button>
+                                   </div>
+                              </div>
+                         </div>
+                    </div>
+
+               </div>
+          </div>
+          <div class="empty-list" v-if="show &amp;&amp; is_inline">
+               <span class="code">{{code}}</span>
+               <span class="message">{{message}}</span>
+          </div>
+     </div>
+</template>
+
+
+<template id="load-component">
+     <div v-if="load" class="loading-container load-room quick-buy-loading">
+          <div class="grid-center-container">
+               <div class="grid-center-content">
+                    <div class="loading-spinner">
+                             <span>
+                                 <img class="loading-img" src="https://cinemarkco.modyocdn.com/uploads/4b7c396a-fbf1-4e56-8cc2-09e7a0e8dc69/original/cinemark.svg" />
+                             </span>
+                         <h3>{{message}}</h3>
+                    </div>
+               </div>
+          </div>
+     </div>
+</template>
+
+
+
+
+
+<template id="post-notification-component">
+     <div v-if="postsNotification" class="row">
+          <div class="container-max-width">
+               <div class="row no-posts-notification">
+                    <h5>{{postErrorMessage}}</h5>
+                    <div class="no-posts-button">
+                         <a :href="homeUrl()">Inicio</a>
+                    </div>
+               </div>
+          </div>
+     </div>
+</template>
+
+
+
+
+
+
+
+
+<template id="payu-component">
+     <div>
+          <form>
+               <div class="row">
+                    <div class="col-sm-6 col-lg-6 control-group">
+                         <label>Nº Tarjeta</label>
+                         <input name="number" v-model="cardDetail.number" v-validate="'required|credit_card'" v-mask="cardDetail.mask_number" :class="{'input': true, 'is-danger': errors.has('number') }" key="number" type="text" />
+                         <span v-show="errors.has('number')" class="help is-danger"><p>{{ errors.first('number') }}</p></span>
+                    </div>
+                    <div class="col-sm-6 col-lg-6 control-group">
+                         <label>Nombre en la tarjeta</label>
+                         <input name="name" v-model="cardDetail.name" :class="{'input': true, 'is-danger': errors.has('name') }" key="name" v-validate="'required|alpha_spaces'" type="text" />
+                         <span v-show="errors.has('name')" class="help is-danger"><p>{{ errors.first('name') }}</p></span>
+                    </div>
+                    <div class="col-sm-6 col-lg-6 control-group">
+                         <label>Fecha de expiración</label>
+                         <input name="expiry" v-model="cardDetail.expiry" v-validate="'required|date_format:MM/YYYY|date_between:'+ getCurrentFormatDate() + ',' + getNextFormatDate()" :class="{'input': true, 'is-danger': errors.has('expiry') }" key="expiry" type="text" v-mask="'##/####'" placeholder="MM/AAAA" />
+                         <span v-show="errors.has('expiry')" class="help is-danger"><p>{{ errors.first('expiry') }}</p></span>
+                    </div>
+                    <div class="col-sm-6 col-lg-6 control-group">
+                         <label>CVC</label>
+                         <input name="cvc" v-model="cardDetail.cvc" v-mask="cardDetail.mask_cvc" v-validate="'required|digits:3'" :class="{'input': true, 'is-danger': errors.has('cvc') }" type="text" key="cvc" v-if="!order.is_amex" />
+                         <input name="cvc" v-model="cardDetail.cvc" v-mask="cardDetail.mask_cvc" v-validate="'required|digits:4'" :class="{'input': true, 'is-danger': errors.has('cvc') }" type="text" key="cvc" v-if="order.is_amex" />
+                         <span v-show="errors.has('cvc')" class="help is-danger"><p>{{ errors.first('cvc') }}</p></span>
+                    </div>
+                    <div class="row">
+                         <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
+                              <div class="cards-container control-group">
+                                   <ul class="cards">
+                                        <li v-for="item in payu_payment_methods" :class="[selected_type == item ? 'active':'', item, 'card']">
+
+                                        </li>
+                                   </ul>
+                              </div>
+                         </div>
+                    </div>
+               </div>
+          </form>
+          <div id="payu">
+               <div id="payu-script">
+               </div>
+               <div id="payu-wrapper">
+               </div>
+          </div>
+     </div>
+</template>
+
+ 
+
+<template id="theatre-selector">
+     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 selector-theatres" v-if="enabled_selector">
+          <div class="grid-center-content">
+               <div class="dropdown-selector">
+                    <button href="javascript:void(0)" class="dropbtn-selector" v-on:click="openTheatreSelector()">{{ getLabel() }}<i class="icon-angle-down"></i></button>
+               </div>
+          </div>
+          <div class="close-billboard-modal" v-if="isChangingTheatre" :class="showTheatreModalClass()" v-on:click="closeModal()"></div>
+
+          <div id="modal-theatre-select" class="modal-theatre-select" :class="showTheatreModalClass()" v-on:click="closeModal()">
+						
+               <div class="modal-theatre-select-container">
+
+                    <div class="modal-theatre-select-header" v-on:click.stop="" v-if="isGeoLocationAvailable() &amp;&amp; !isChangingTheatre">
+                         <div class="geo-wrap" v-if="!geoLocationLoaded"> <!-- -->
+                              <h4>
+                                   <img class="loading-theatre" src="https://cinemarkco.modyocdn.com/uploads/4b7c396a-fbf1-4e56-8cc2-09e7a0e8dc69/original/cinemark.svg" />
+                                   Buscando tu cinema más cercano...
+                              </h4>
+                         </div>
+                         <div class="geo-wrap" v-if="geoLocationLoaded &amp;&amp; nearestTheatre &amp;&amp; !geoLocationError">
+                              <!--<a :href="changeTheater(nearestTheatre)">-->
+                                   <h4>
+                                        <img src="https://cinemarkco.modyocdn.com/uploads/7682b017-7275-43a1-bc98-e33cedbdfa43/original/location-icon-red.png" />
+                                        Tu cine más cercano - <b>{{ nearestTheatre.city }} - {{ nearestTheatre.name }} <!--<i class="icon-angle-right"></i>--></b>
+                                   </h4>
+                              <!--</a>-->
+                         </div>
+                         <div class="geo-wrap" v-if="geoLocationError">
+                              <h4>
+                                   <img src="https://cinemarkco.modyocdn.com/uploads/7682b017-7275-43a1-bc98-e33cedbdfa43/original/location-icon-red.png" />
+                                   No pudimos encontrar tu localización.
+                              </h4>
+                         </div>
+                    </div>
+                    <div class="modal-theatre-select-body" v-on:click.stop="">
+                         <h3 class="modal-title text-center">selecciona el cine donde quieres ver tu película</h3>
+                         <h4 class="text-center">Listado de ciudades y cines disponibles</h4>
+                    </div>
+
+                    <div class="modal-theatre-select-body modal-theatre-selector-container" v-on:click.stop="">
+                         <div class="theatre-selector">
+                              <div class="theatre-selector-group">
+                                   <div class="form-group">
+                                        <select class="form-control" v-model="selectedCity">
+																							<option v-bind:value="undefined">Ciudad</option>
+																							<option v-for="(city, index) in cities" v-bind:value="city">{{ city.city }}</option>
+                                        </select>
+                                   </div>
+
+                                   <div class="form-group">
+                                        <select class="form-control" v-model="selectedTheatre" v-if="selectedCity != undefined">
+																						<option v-bind:value="undefined">Cine</option>
+																						<option v-for="(theatre, index) in selectedCity.theatres" v-bind:value="theatre">{{theatre.name}}</option> 
+                                        </select>
+																		 		<select class="form-control" v-model="selectedTheatre" v-if="selectedCity == undefined">
+																						<option v-bind:value="undefined">Cine</option>
+																				</select>
+                                   </div>
+
+                                   <div class="change-theatre-button" v-if="isChangingTheatre">
+																		 		<button class="btn-primary next" v-on:click="changeTheaterBillboard(selectedTheatre)" v-bind:disabled="selectedCity == undefined || selectedTheatre == undefined">Aceptar</button>
+                                   </div>
+                              </div>
+                         </div>
+
+                         <div class="change-theatre-button" v-if="!isChangingTheatre">
+                              <button class="btn-primary next" v-on:click="changeTheater(selectedTheatre, true)" v-bind:disabled="selectedCity == undefined || selectedTheatre == undefined">Aceptar</button>
+                         </div>
+
+                    </div>
+               </div>
+          </div>
+     </div>
+</template>
+
+
+
+<template id="quick-buy-component">
+     <div class="quick-buy" v-if="checkDays()">
+          <div class="container-max-width">
+               <h3>Compra tus entradas online</h3>
+               <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9 center-container-compra select-container">
+                    <div class="center-elements" id="bs-example-navbar-collapse-1">
+                         <ul class="row nav navbar-nav select-grey">
+                              <li class="col-xs-6 col-sm-3 col-md-3 col-lg-3 form">
+                                   <div class="form-group cinemark-select">
+                                        <select class="form-control" v-model="selectedDay">
+                                             <option v-bind:value="defaultValue">FECHA</option>
+                                             <option v-for="(day, index) in days" v-bind:value="day">{{convertDate(day.date, 'YYYY-MM-DD', 'ddd DD MMM YYYY', false)}}</option>
+                                        </select>
+                                   </div>
+                              </li>
+                              <li class="col-xs-6 col-sm-3 col-md-3 col-lg-3 form">
+                                   <div class="form-group cinemark-select">
+                                        <select v-bind:disabled="!selectedDay.movies || selectedDay.movies.length == 0" class="form-control" v-model="selectedMovie">
+                                             <option v-bind:value="defaultValue">PELÍCULA</option>
+                                             <option v-for="(movie, index) in selectedDay.movies" v-bind:value="movie">{{movie.title}}</option>
+                                        </select>
+                                   </div>
+                              </li>
+                              <li class="col-xs-6 col-sm-3 col-md-3 col-lg-3 form">
+                                   <div class="form-group cinemark-select">
+                                        <select v-bind:disabled="!selectedMovie.movie_versions || selectedMovie.movie_versions.length == 0" class="form-control selected-version" v-model="selectedVersion ">
+                                             <option v-bind:value="defaultValue">FORMATO</option>
+                                             <option v-for="(version, index) in selectedMovie.movie_versions" v-bind:value="version">{{formatVersion(version.title)}}</option>
+                                        </select>
+                                   </div>
+                              </li>
+                              <li class="col-xs-6 col-sm-3 col-md-3 col-lg-3 form">
+                                   <div class="form-group cinemark-select">
+                                        <select v-bind:disabled="!selectedVersion.sessions || selectedVersion.sessions.length == 0" class="form-control" v-model="selectedHour">
+                                             <option v-bind:value="defaultValue">HORA</option>
+                                             <option v-for="(hour, index) in selectedVersion.sessions" v-bind:value="hour">{{convertDate(hour.hour, 'HH:mm', 'hh:mm A', false)}}</option>
+                                        </select>
+                                   </div>
+                              </li>
+                         </ul>
+                    </div>
+               </div>
+               <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 center-container-compra">
+                    <div class="button-container">
+                         <div class="grid-center-container">
+                              <div class="grid-center-content">
+                                   <a class="btn cta-buy btn-primary" :href="getFormatedHref()" :disabled="!isValid()" :class="{ disabled: !isValid() }" v-on:click="validateClick($event)" role="button"><i class="icon-shopping-cart"></i>COMPRAR</a>
+                              </div>
+                         </div>
+                    </div>
+               </div>
+          </div>
+     </div>
+</template>
+
+
+
+
+<!-- Google Tag Manager (noscript) -->
+<!-- Google Tag Manager (noscript) -->
+<noscript>&lt;iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TPN3PX8"
+height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="container">
+     <div class="container-inner">
+
+          <style>
+.menu-panel-mobile {
+		z-index: 5;
+		display: block;
+		position: fixed;
+		top: 0;
+		left: -100%;
+		overflow: hidden;
+		-webkit-overflow-scrolling: touch;
+		width: 80%;
+		height: 100vh;
+		background: white;
+		-webkit-transition: left .3s;
+		transition: left .3s;
+		-webkit-backface-visibility: hidden;
+	}
+	.menu-panel-mobile.show { left: 0; }
+	.menu-panel-mobile .outer-scroll {
+		position: relative;
+		height: 100vh;
+		display: block;
+		overflow: hidden;
+		width: 100%;
+		-webkit-overflow-scrolling: touch;
+	}
+	.menu-panel-mobile .inner-scroll {
+		position: absolute;
+		z-index: 9;
+		top: 0;
+		display: block;
+		height: auto;
+		bottom: 0;
+		overflow-y: scroll;
+		width: 100%;
+		-webkit-overflow-scrolling: touch;
+	}
+
+	.overlay {
+		z-index: 4;
+		display: none;
+		position: fixed;
+		width: 100%;
+		height: 100vh;
+		top: 0;
+		bottom: 0;
+		background: rgba(0,0,0,.6);
+	}
+
+	/* CSS MENU */
+	ul.nav-mobile li {
+		list-style: none;
+		border-bottom: 1px solid #eee;
+	}
+	ul.nav-mobile li a {
+		color: #b5121c;
+		text-transform: uppercase;
+		letter-spacing: 1px;
+		font-weight: 600;
+		padding: 14px 40px;
+		display:block;
+	}
+	ul.nav-mobile.top-menu li a {
+		color: #797979;
+		text-transform: uppercase;
+		letter-spacing: 1px;
+		font-weight: 500;
+		padding: 14px 40px;
+		display:block;
+	}
+	ul.nav-mobile li a:hover {
+		color:#fff;
+		background: #b5121c;
+		transition:0.3s;
+		text-decoration: none;
+	}
+	#nav-accordion .accordion-group {
+		border-radius:0;
+		border:0;
+		margin:0;
+	}
+
+	#nav-accordion .accordion-heading {
+		border-bottom: 1px solid #eee;
+	}
+
+	#nav-accordion a.accordion-toggle.open {
+		background:#b5121c;
+		color:#fff;
+	}
+
+	#nav-accordion a.accordion-toggle {
+		color: #797979;
+		text-transform: uppercase;
+		letter-spacing: 1px;
+		font-weight: 600;
+		padding: 28px 40px;
+		display: block;
+		position:relative;
+	}
+
+	#menu-mobile-01,
+	#menu-mobile-02{
+		background: #b5121c;
+	}
+
+	.row.logo-cmk-mobile img {
+		margin: 0 auto;
+		display: block;
+		padding: 20px 0;
+		max-width:180px;
+	}
+
+	#nav-accordion a.accordion-toggle:hover {
+		color:#fff;
+		background:#b5121c;
+		transition:0.3s;
+	}
+
+
+	#nav-accordion a.accordion-toggle:after {
+		display: block;
+		font-family: 'FontAwesome';
+		position: absolute;
+		width: 14px;
+		height: 100%;
+		font-size: 17px;
+		line-height: 45px;
+		top: 0;
+		right: 22px;
+		background: transparent;
+		text-align: center;
+		content: '+';
+		color: #454545;
+	}
+
+	#nav-accordion a.accordion-toggle.open:after {
+		content: '-';
+		font-size:25px;
+		color:#fff;
+	}
+
+
+.searchx.iconx {
+	color: #000;
+	position: absolute;
+	margin-top: 2px;
+	margin-left: 3px;
+	width: 12px;
+	height: 12px;
+	border: solid 1px red;
+	border-radius: 100%;
+	-webkit-transform: rotate(-45deg);
+	transform: rotate(-45deg);
+}
+.searchx.iconx:before {
+	content: '';
+	position: absolute;
+	top: 12px;
+	left: 5px;
+	height: 6px;
+	width: 1px;
+	background-color: red;
+}
+
+.box{
+		width: 30px;
+    height: 0;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: -10px;
+}
+.btn-session span.user-data {
+    color: #b5121c;
+		padding-left: 10px;
+}
+.container-2{
+  width:auto;
+  vertical-align: middle;
+  white-space: nowrap;
+  position: relative;
+}
+
+span.icon img {
+    max-width: 20px;
+}
+
+.container-2 input#search{
+    width: 30px;
+    height: 43px;
+    background: #fff0;
+    border: none;
+    font-size: 10pt;
+    float: right;
+    color: #eee;
+    padding-left: 15px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    color: #454545;
+    -webkit-transition: width .55s ease-out;
+    -moz-transition: width .55s ease-out;
+    -ms-transition: width .55s ease-out;
+    -o-transition: width .55s ease-out;
+    transition: width .55s ease-out;
+    height: 30px;
+		box-shadow:none;
+		opacity:0;
+		margin:0;
+}
+
+.container-2 input#search::-webkit-input-placeholder {
+   color: #eee;
+}
+ 
+.container-2 input#search:-moz-placeholder { /* Firefox 18- */
+   color: #eee;  
+}
+ 
+.container-2 input#search::-moz-placeholder {  /* Firefox 19+ */
+   color: #eee;  
+}
+ 
+.container-2 input#search:-ms-input-placeholder {  
+   color: #eee;  
+}
+
+.container-2 .icon{
+  position: absolute;
+  top: 50%;
+ 	margin-right: 17px;
+  margin-top: 10px;
+  z-index: 1;
+  color: #4f5b66;
+  right:0;
+}
+
+.container-2 input#search:focus, .container-2 input#search:active{
+  outline:none;
+  width: 250px;
+	background:#fff;
+	box-shadow: 1px 7px 12px #00000038;
+	    -webkit-transition: width .55s ease-out;
+    -moz-transition: width .55s ease-out;
+    -ms-transition: width .55s ease-out;
+    -o-transition: width .55s ease-out;
+    transition: width .55s ease-out;
+}
+ 
+.container-2:hover input#search{
+opacity:1;
+width: 250px;
+background:#fff;
+box-shadow: 1px 7px 12px #00000038;
+    -webkit-transition: width .55s ease-out;
+    -moz-transition: width .55s ease-out;
+    -ms-transition: width .55s ease-out;
+    -o-transition: width .55s ease-out;
+    transition: width .55s ease-out;
+}
+ 
+.container-2:hover .icon{
+  color: #93a2ad;
+}
+
+
+/*CMK COLOR
+Red-cmk: #b5121c
+Dark-grey: #454545
+grey: #dddddd
+Light-grey: #ececec
+
+*/
+header {
+    padding: 0 7px;
+}
+
+
+#header {
+    left: 0;
+    padding: 0;
+    min-height: 90px;
+    background-color: #fff;
+		z-index:100;
+    -webkit-transition: left 0.4s ease-in-out;
+    -moz-transition: left 0.4s ease-in-out;
+    -ms-transition: left 0.4s ease-in-out;
+    -o-transition: left 0.4s ease-in-out;
+    transition: left 0.4s ease-in-out;
+    -webkit-box-shadow: 0px 2px 31px -3px rgba(0,0,0,0.35);
+    -moz-box-shadow: 0px 2px 31px -3px rgba(0,0,0,0.35);
+    box-shadow: 0px 2px 31px -3px rgba(0,0,0,0.35);
+}
+.header-container {
+    width: 100%;
+    max-width: 1140px;
+    margin: 0 auto;
+}
+header&gt;.header-inner {
+    padding: 0;
+}
+.header-inner .logo {
+    height: 90px;
+    padding-top: 0px;
+    text-align: left;
+}
+.header-inner .logo img {
+    width: 100%;
+    max-width: 230px;
+    min-width: 120px;
+}
+.logo-header {
+    display: table;
+}
+.menu-header {
+    text-align: right;
+    display: table;
+}
+.box-menu {
+    height: 90px;
+}
+.menu-resp {
+    height: 90px;
+}
+.box-menu li a {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 15px;
+    padding: 0px 10px;
+    text-transform: uppercase;
+    color: #b5121c;
+}
+.box-menu li a:active,
+.box-menu li a:focus,
+.box-menu li a:visited,
+.box-menu li a:hover {
+    color: #920000;
+    background: rgba(255, 255, 255, 0.18);
+    padding: 7px 10px;
+    border-radius: 3px;
+}
+#sidebar-toggle {
+    background: transparent;
+    border-radius: 3px;
+    display: table-cell;
+    position: relative;
+    padding: 10px 7px;
+    height: 50px;
+}
+#sidebar-toggle .bar {
+    display: block;
+    width: 25px;
+    margin-bottom: 5px;
+    height: 3px;
+    background-color: #dddddd;
+    border-radius: 1px;
+}
+#sidebar-toggle .bar:last-child {
+    margin-bottom: 0;
+}
+
+.header-inner-top {
+    background: #ececec;
+    height: 42px;
+}
+.header-inner-top .header-container ul {
+    margin: 12px 0 -12px;
+}
+.float-right {
+    float: right;
+}
+ul.container-links {
+    padding-left: 15px;
+}
+ul.container-links li {
+    display: table;
+    color: #fff;
+    float: left;
+    font-size: 12px;
+    font-weight: 400;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+ul.container-links li.user-login {
+	padding: 12px 20px 0;
+}
+ul.container-links li a {
+    color: #454545;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 400;
+    font-size: 11px;
+}
+ul.container-links li a:hover {
+    color: #b5121c;
+}
+.no-padding {
+    padding:0;
+}
+
+.btn-session {
+    background: none;
+    border: 0;
+    padding:0;
+    line-height: 12px;
+    margin:5px 0;
+}
+
+.btn-session p {
+    font-size: 12px;
+    font-weight: 500;
+    color: #fff;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+ul.container-links li a i {
+    color: #ab040b;
+}
+
+.user-login .ico-user {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.user-login .ico-user img {
+    height: 20px;
+}
+.ico-search img {
+    height: 18px;
+}
+ul.container-links li.user-login:hover {
+    background: #fff;
+}
+
+/*li.select-session {
+    color: #fff;
+    width: 100px;
+    text-align: center;
+    margin: -8px 5px;
+    padding: 5px 0 !important;
+}*/
+.select-session.register,
+.select-session.login {
+		margin-left: 0;
+		margin-right: 15px;
+}
+.header-container .register a, .header-container .login a {
+    color: #fff;
+    text-align: center;
+    margin: -7px 0;
+    padding: 4px 0;
+    background: #545454;
+    width: 100px;
+    display: block;
+}
+.header-container .login a {
+    background: #b5121c;
+}
+.header-container .login a, .header-container .register a {
+	color:#fff !important;
+}
+
+li.user-login p .caret {
+    margin-top: 5px;
+    color: #ababab !important;
+    border-top: 4px solid #ababab;
+    border-right: 4px solid transparent;
+    border-left: 4px solid transparent;
+}
+ul.dropdown-menu.dropdown-session {
+    min-width: 0;
+    width: 196px;
+    border-radius: 0;
+    top: 18px;
+    padding:0;
+    left: -50px;
+    box-shadow: 0px 0px 21px 9px #0000002e;
+    background: white;
+    border:0;
+}
+ul.dropdown-menu.dropdown-session li a {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    display: block;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+}
+
+li.user-login {
+    border-left: 1px solid #b7b7b7;
+    border-right: 1px solid #b7b7b7;
+    margin: 0;
+    padding: 0 20px 0 50px;
+    height: 42px;
+    margin-top: -12px;
+    padding-top: 12px;
+    margin-right: 15px;
+}
+
+ul.dropdown-menu.dropdown-session li {
+    margin: 0;
+    text-align: center;
+    padding: 0;
+    width: 100%;
+}
+ul.dropdown-menu.dropdown-session li a:hover {
+    background: #ececec;
+    color: #454545;
+}
+
+.selector-theatres .grid-center-content {
+    height: 90px;
+    text-align: right;
+}
+.selector-theatres {
+    display: table;
+}
+
+.selector-theatres button {
+    position: relative;
+    width: 100%;
+    min-width: 200px;
+    height: 42px;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #7f7f7f;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: left;
+    background: none;
+    background-color: #fff;
+    border: 2px solid #a9a9a9;
+    border-radius: 3px;
+    padding: 0 10px;
+    transition: 0.3s;
+    padding-right: 32px;
+    line-height: 14px;
+}
+
+.selector-theatres button .icon-angle-down {
+    position: absolute;
+    font-size: 20px;
+    color: #b5121c;
+    right: 15px;
+		top:9px;
+}
+
+.selector-theatres button:active,
+.selector-theatres button:focus,
+.selector-theatres button:visited,
+.selector-theatres button:hover {
+    background-color: #000;
+    color: #fff !important;
+    border: 2px solid #000 !important;
+}
+
+ul.container-links.social li {
+    margin-left: 0px;
+    margin-right: 16px;
+}
+.social li img {
+    height: 22px;
+    opacity: 0.5;
+}
+.social li img:hover {
+    opacity: 1;
+}
+.dropdown-card h4 {
+    text-align: center;
+    padding: 14px;
+    margin-bottom: 0;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 600;
+}
+/*DROPDOWN*/
+.dropdown-selector {
+    position: relative;
+    /* margin: auto; */
+    float: right;
+    display: inline-block;
+}
+.bropbtn-selector {
+    width: 300px;
+}
+
+.dropdown-content-selector {
+		position: absolute;
+		background: #000;
+		top: 40px;
+		right: 0;
+		z-index: 99999999;
+		/* width: auto; */
+		padding: 10px;
+		/* text-transform: uppercase; */
+		/* font-size: 14px; */
+		/* font-weight: 500; */
+		/* transition: 0.3s; */
+}
+.dropdown-content-selector ul {
+    list-style: none;
+    padding: 0;
+    text-align: left;
+    display: table-cell;
+}
+.dropdown-content-selector li {
+    width: 200px;
+    text-align: left;
+    padding-right: 5px;
+}
+.dropdown-content-selector a {
+		display: block;
+    text-align: left;
+    padding: 5px 8px;
+    font-size: 12px;
+    color: #a9a9a9;
+    text-decoration: none;
+    margin: 5px 0;
+}
+.dropdown-content-selector a:hover {
+    padding: 5px 8px;
+    margin: 5px 0;
+    background: #333;
+    border-radius: 3px;
+    transition: 0.3s;
+}
+.dropdown-content-selector {
+    display:none;
+    transition: 0.3s;
+}
+.dropdown-content-selector h4 {
+		font-weight: 500;
+		color: #fff;
+		font-size: 14px;
+		text-align: left;
+		padding: 10px 8px 0;
+		margin: 0;
+		text-transform: uppercase;
+}
+.dropdown-selector:hover .dropdown-content-selector {
+    display: table;
+    transition: 0.3s;
+		text-align: left;
+}
+.dropdown-content-selector:hover ~ dropbtn-selector {
+    background: #000;
+    background-color: #000;
+    transition: 0.3s;
+}
+/*END DROPDOWN*/
+/*FIX LOGIN*/
+.user-login {
+	position: relative;
+}
+.user-login .dropdown {
+	position: initial;
+	margin-top: -4px;
+}
+.user-login .ico-user {
+    position: relative;
+    top: -2px;
+    left: 0px;
+}
+li.user-login p .caret {
+    margin-top: 8px;
+}
+.btn-session {
+    margin: 5px 0;
+}
+.user-login  ul.dropdown-menu.dropdown-session {
+    min-width: 0;
+    width: 100%;
+    border-radius: 0;
+    top: 30px;
+    padding: 0;
+    left: 0;
+    box-shadow: 0px 0px 21px 9px #0000002e;
+    background: white;
+    border: 0;
+}
+
+
+.alert-message.row {
+     background: #b5121d;
+     padding: 20px 18px;
+}
+
+.alert-message-container {
+     width: 100%;
+     max-width: 1100px;
+     margin: 0 auto;
+     display: table;
+}
+
+.alert-message-container i {
+     margin-right: 12px;
+}
+
+.alert-message .post-alert-message {
+     float: left;
+     color: #fff;
+     text-transform: uppercase;
+     font-size: 22px;
+     padding-right: 22px;
+     border-right: 1px solid #fff;
+     margin-right: 22px;
+}
+
+.alert-message .post-text-message {
+     float: left;
+     width: calc(100% - 168px);
+     display: table;
+     text-align: left;
+}
+
+.alert-message p {
+     margin: 0;
+     padding: 0;
+     color: #fff;
+     text-align: center;
+}
+
+.header-inner-top {
+    height:38px;
+}
+
+.header-inner-top .header-container ul {
+    margin: 7px 0 -12px;
+}
+
+.header-inner .logo {
+    height: 64px;
+}
+
+.box-menu {
+    height: 64px;
+}
+
+.selector-theatres .grid-center-content {
+    height: 64px;
+}
+@media (max-width: 992px) {
+		.dropdown-content-selector ul {
+				display: inline-block;
+				vertical-align: top;
+		}
+		.alert-message .post-alert-message {
+			text-align: left;
+			border: none;
+			margin-bottom: 12px;
+			width: 100%;
+		}
+		li.select-session.login {
+			display: block !important;
+			padding-top:3px;
+		}
+			.alert-message .post-text-message {
+			width: 100%;
+			}
+
+    ul.container-links.top-menu li,
+    .user-login .user-data {
+        display: none;
+    }
+    ul.container-links.top-menu li.user-login {
+        display: block;
+        margin-right: 0;
+        margin-left: 0;
+    }
+    .header-inner .logo {
+        text-align: center;
+    }
+    .header-inner .logo img {
+        width: 100%;
+        padding: 0 20px;
+    }
+    .selector-theatres .dropdown-selector {
+        width: 100%;
+    }
+    .dropdown-content-selector {
+        /*width: calc(100% - 30px);*/
+				width: 100%;
+        top: 40px;
+    }
+    .selector-theatres .grid-center-content {
+        height: 0px;
+				text-align: center;
+				padding-bottom: 12px;
+    }
+    .header-inner .logo {
+        height: 50px;
+        text-align: center;
+    }
+    .user-login ul.dropdown-menu.dropdown-session {
+        left: inherit;
+        right: 0;
+				width: 250px;
+    }
+    ul.container-links.top-menu .dropdown li {
+        display: block;
+    }
+    .dropdown-content-selector li {
+        display:block;
+    }
+    .dropdown-content-selector li:last-child {
+        padding-right: 0;
+    }
+}
+@media (max-width: 480px) {
+    .dropdown-content-selector li {
+        width: 100%;
+    }
+}
+</style>
+
+
+<header id="header"><div class="menu-panel-mobile"><div class="outer-scroll"><div class="inner-scroll"><div><div class="row logo-cmk-mobile"><img src="https://cinemarkla.modyocdn.com/uploads/a8852d98-cd8b-4029-a316-dbb44b8632f2/original/cinemark-logo.png" /></div> <div class="row menu-cmk-mobile"><div id="navbar-items-mobile"><div class="navbar-inner"><ul class="nav-mobile"><li><a href="https://www.cinemark.com.co/peliculas?tag=790">Películas</a></li> <li><a href="https://www.cinemark.com.co/teatros?tag=790">Teatros</a></li> <li><a href="https://www.cinemark.com.co/promotions?tag=790">Promociones</a></li> <li><a href="https://www.cinemark.com.co/confiteria?tag=790">Confiteria</a></li> <li><a href="https://www.cinemark.com.co/elitegold?tag=790">Elite Gold</a></li></ul> <ul class="nav-mobile top-menu"><li><a href="https://www.cinemark.com.co/encuesta-de-servicio?tag=790">Encuesta de servicio</a></li> <li><a href="https://www.cinemark.com.co/contactanos?tag=790">Contáctanos</a></li> <li><a href="https://www.cinemark.com.co/formatos?tag=790">Formatos</a></li> <li><a href="https://www.cinemark.com.co/marketingempresarial?tag=790">Marketing Empresarial</a></li></ul></div></div></div></div></div></div></div> <div class="overlay click-toggle-menu-mobile"></div> <div class="header-inner-top"><div class="header-container"><div class="row"><div class="col-xs-5 col-sm-3 col-md-2 col-lg-2 no-padding "><ul class="container-links social float-left"><li><a href="https://www.facebook.com/Cinemark.Colombia" target="blank"><img src="https://cinemarkla.modyocdn.com/uploads/09c4b3aa-12d4-4686-8c3e-4060dff9cdfe/original/ico-facebook.png" alt="" /></a></li> <li><a href="https://twitter.com/CinemarkCol?lang=es" target="blank"><img src="https://cinemarkla.modyocdn.com/uploads/aeb3d7b0-1ce1-4208-b56d-868f19117142/original/ico-twitter.png" alt="" /></a></li> <li><a href="https://www.instagram.com/cinemarkcol/" target="blank"><img src="https://cinemarkla.modyocdn.com/uploads/8109e80b-4302-484d-8877-e935545bf653/original/ico-instagram.png" alt="" /></a></li></ul></div> <div class="col-xs-7 col-sm-9 col-md-10 col-lg-10 no-padding "><ul class="container-links top-menu float-right"><li><a href="https://www.cinemark.com.co/encuesta-de-servicio?tag=790">Encuesta de servicio</a></li> <li><a href="https://www.cinemark.com.co/contactanos?tag=790">Contáctanos</a></li> <li><a href="https://www.cinemark.com.co/formatos?tag=790">Formatos</a></li> <li><a href="https://www.cinemark.com.co/marketingempresarial?tag=790">Marketing Empresarial</a></li> <li class="select-session register"><a href="https://www.cinemark.com.co/registration"><button type="button" class="btn-session"><p class="login-session-link">Registrarse</p></button></a></li> <li class="select-session login"><a href="https://www.cinemark.com.co/me"><button type="button" class="btn-session"><p class="login-session-link">Iniciar Sesión</p></button></a></li></ul></div></div></div></div> <div class="row header-inner"><div class="header-container grid-center-container"><div class="col-xs-2 col-sm-2 col-md-1 col-lg-1 hidden-desktop"><a href="#" id="sidebar-toggle" class="menu-resp grid-center-content click-toggle-menu-mobile"><span class="bar"></span> <span class="bar"></span> <span class="bar"></span></a></div> <div class="col-xs-9 col-sm-9 col-md-3 col-lg-3 logo-header"><div class="logo grid-center-content"><a href="https://www.cinemark.com.co/?tag=790"><img src="https://cinemarkla.modyocdn.com/uploads/a8852d98-cd8b-4029-a316-dbb44b8632f2/original/cinemark-logo.png" alt="Cinemark" /></a></div></div> <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 menu-header hidden-responsive"><ul class="box-menu grid-center-content"><li><a href="https://www.cinemark.com.co/peliculas?tag=790">Películas</a></li> <li><a href="https://www.cinemark.com.co/teatros?tag=790">Teatros</a></li> <li><a href="https://www.cinemark.com.co/promotions?tag=790">Promociones</a></li> <li><a href="https://www.cinemark.com.co/confiteria?tag=790">Confiteria</a></li> <li><a href="https://www.cinemark.com.co/elitegold?tag=790">Elite Gold</a></li></ul></div> <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 selector-theatres"><div class="grid-center-content"><div class="dropdown-selector"><button href="javascript:void(0)" class="dropbtn-selector">El Tesoro<i class="icon-angle-down"></i></button></div></div> <!----> <div id="modal-theatre-select" class="modal-theatre-select"><div class="modal-theatre-select-container"><div class="modal-theatre-select-header"><div class="geo-wrap"><h4><img src="https://cinemarkco.modyocdn.com/uploads/4b7c396a-fbf1-4e56-8cc2-09e7a0e8dc69/original/cinemark.svg" class="loading-theatre" />
+                                   Buscando tu cinema más cercano...
+                              </h4></div> <!----> <!----></div> <div class="modal-theatre-select-body"><h3 class="modal-title text-center">selecciona el cine donde quieres ver tu película</h3> <h4 class="text-center">Listado de ciudades y cines disponibles</h4></div> <div class="modal-theatre-select-body modal-theatre-selector-container"><div class="theatre-selector"><div class="theatre-selector-group"><div class="form-group"><select class="form-control"><option value="">Ciudad</option> <option value="[object Object]">Armenia</option><option value="[object Object]">Bogota</option><option value="[object Object]">Bucaramanga</option><option value="[object Object]">Cali</option><option value="[object Object]">Cucuta</option><option value="[object Object]">Florencia</option><option value="[object Object]">Ibague</option><option value="[object Object]">Ipiales</option><option value="[object Object]">Manizales</option><option value="[object Object]">Medellin</option><option value="[object Object]">Monteria</option><option value="[object Object]">Neiva</option><option value="[object Object]">Palmira</option><option value="[object Object]">Pasto</option><option value="[object Object]">Pereira</option><option value="[object Object]">Santa Marta</option><option value="[object Object]">Soledad</option><option value="[object Object]">Tunja</option><option value="[object Object]">Valledupar </option><option value="[object Object]">Villavicencio</option><option value="[object Object]">Yopal</option></select></div> <div class="form-group"><!----> <select class="form-control"><option value="">Cine</option></select></div> <!----></div></div> <div class="change-theatre-button"><button disabled="disabled" class="btn-primary next">Aceptar</button></div></div></div></div></div></div></div> <!----></header>
+
+
+          <div id="content">
+               <div class="content-inner">
+                    <div class="breadcrumb"><div class="breadcrumb-inner container"><a class="first last item-0" href="https://www.cinemark.com.co">Home</a></div></div>
+                    <div id="page-content">
+  <div id="main" class="main-full">
+    <div class="main-inner">
+      
+        <div class="widget-definition" id="modyo-54087219-ba26-4d2f-8fa6-1f74aa7e08e4/d157cd9f56eb6d53a61cb9d3a570b1344ab5f3f67e2c529d08ad10ad74057e0c"><div id="page-movie" class="movie-show"><!----> <div class="container"><div class="movie-img-small center-background"><div class="movie-img-youtube center-background" style="background-image: url(&quot;https://img.youtube.com/vi/ssl6COr7LzQ/maxresdefault.jpg&quot;);"><div class="movie-trailer grid-center-container"><div class="grid-center-content-vertical"><div class="background-dark"><div class="container-max-width"><div class="play-container"><button data-toggle="modal" data-target="#modalMovie" class="icon-play"></button></div> <div class="row movie-trailer-content"><div class="col-xs-4 col-sm-3 col-md-3 col-lg-3"></div> <div class="col-xs-8 col-sm-9 col-md-9 col-lg-9"><h1>Una entrevista con Dios</h1> <div class="movie-details"><ul><li class="rating">todos<span>Todo público</span></li> <li>100 min</li></ul></div></div></div></div></div></div></div></div></div> <div class="row"><div class="container-max-width"><div class="row row-margin-bottom home-default-container"><div class="row-promotions"><div id="sidebar" class="col-xs-12 col-sm-3 col-md-3 col-lg-3"><div class="movie-cover-container"><div class="movie-cover" style="background-image: url(&quot;https://cinemarkmedia.modyocdn.com/co/300x400/193655.jpg?version=1542852000000&quot;);"></div></div> <input type="checkbox" id="toggle-0" /> <label for="toggle-0" class="button-expand-info"></label> <div class="movie-info expand-info"><div><h1>Titulo Original</h1> <p>Una entrevista con Dios</p></div> <div><h1>Director</h1> <p>Perry  Lang</p></div> <div class="reparto"><h1>Reparto</h1> <p>Charlbi Dean  Kriek</p><p>Yael  Grobglas</p><p>Brenton  Thwaites</p><p>Hill  Harper</p><p>David  Strathairn</p></div> <div id="collapseSinopsis"><h1>Sinopsis</h1> <input type="checkbox" id="toggle-1" /> <div class="expand-text"><p>Al regresar a casa después de cubrir una guerra, el periodista Paul Asher lucha para lidiar con los efectos secundarios de sus experiencias, un matrimonio fallido y su fe en decadencia.  Sin saber a dónde ir, se adentra en la historia de su vida: una entrevista con un hombre misterioso que dice ser Dios.  ¿Qué le pregunta un inquisitivo reportero a Dios? ¿Qué le preguntarías tú? </p></div> <label for="toggle-1" class="button-expand-sinopsis"></label></div></div></div></div> <div id="movie-show-container" class="col-xs-12 col-sm-9 col-md-9 col-lg-9"><ul class="billboard-days"><li><button type="button" class="active"><h3>MIÉ.</h3> <h5>21 NOV. 2018</h5></button></li><li><button type="button" class=""><h3>JUE.</h3> <h5>22 NOV. 2018</h5></button></li><li><button type="button" class=""><h3>VIE.</h3> <h5>23 NOV. 2018</h5></button></li><li><button type="button" class=""><h3>SÁB.</h3> <h5>24 NOV. 2018</h5></button></li><li><button type="button" class=""><h3>DOM.</h3> <h5>25 NOV. 2018</h5></button></li><li><button type="button" class=""><h3>LUN.</h3> <h5>26 NOV. 2018</h5></button></li><li><button type="button" class=""><h3>MAR.</h3> <h5>27 NOV. 2018</h5></button></li><li><button type="button" class=""><h3>MIÉ.</h3> <h5>28 NOV. 2018</h5></button></li></ul> <div class="tab-content"><div id="12-12-2017" class="tab-pane active fade in"><div class="row"><div class="movie-schedule"><div class="theatre-name"><h1>El Tesoro</h1> <h4>Transversal superior Carrera 25A # 1A SUR - 45</h4></div> <div class="box-movie-format"><div class="movie-format"><div class="movie-version"><span class="tag-2D">2D
+                                                                      <!----></span></div> <div class="movie-lenguaje"><span class="tag-SUB">Subtitulada</span></div> <div class="movie-seats"><span class="sillasSpan">Sillas:</span> <span class="butaca tag-PRE"><h4 class="version-tooltip">Poltronas completamente reclinables y con descansa pies</h4></span></div></div> <div class="movie-times"><span class="legal">*Los horarios aquí expuestos representan el inicio de cada función</span> <button class="btn btn-buy">21:50</button></div></div></div></div></div></div> <!----> <!----></div></div></div></div></div> <div id="modalMovie" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" class="modal fade"><div role="document" class="modal-dialog"><div class="modal-content"><div class="modal-header"><h4 id="myModalLabel" class="modal-title"></h4><h2><i class="icon-film"></i> Una entrevista con Dios</h2> <button type="button" data-dismiss="modal" class="btn btn-primary btn-modal"><i class="icon-remove-sign"></i></button></div> <div class="modal-body"><!----></div></div></div></div> <div class="selected-session"><!----></div> <div><!----> <!----></div></div>
+</div>
+<script>
+  (function(){
+    var css_url = "https://www.cinemark.com.co/widget_manager/54087219-ba26-4d2f-8fa6-1f74aa7e08e4/d157cd9f56eb6d53a61cb9d3a570b1344ab5f3f67e2c529d08ad10ad74057e0c.css";
+    var css;
+    css = document.createElement('link');
+    css.rel = 'stylesheet';
+    css.type = 'text/css';
+    css.media = "all";
+    css.href = css_url;
+    document.getElementsByTagName("head")[0].appendChild(css);
+  })();
+</script>
+      
+    </div>
+  </div>
+</div>
+               </div>
+          </div>
+
+          <style>
+	/*Ocultar burbuja login*/	
+		#session-bubble, .modyo-bar-top{
+			display: none!important;
+		}
+		#modyo-session.active .signIn {
+			display: none!important;
+		}
+	/*Fin*/	
+	footer {
+		left:0;
+		color: #ffffff;
+		position: relative;
+		background-color: #dddddd !important;
+		background: #dddddd !important;
+		-webkit-transition: left 0.4s ease-in-out;
+		-moz-transition: left 0.4s ease-in-out;
+		-ms-transition: left 0.4s ease-in-out;
+		-o-transition: left 0.4s ease-in-out;
+		transition: left 0.4s ease-in-out;
+		font-family: 'Roboto Condensed', sans-serif;
+	}
+	footer .social li img {
+		height: 40px;
+		opacity: 1;
+	}
+	footer .social li {
+		display: inline-block;
+		min-width: 33%;
+	}
+	footer social li a span {
+		padding-left: 5px;
+	}
+	.footer-container {
+		width: 100%;
+		max-width: 1170px;
+		margin: 0 auto;
+	}
+	.footer .footer-inner {
+		padding: 0;
+	}
+	footer .row.social-container {
+		border-bottom: 1px solid #c6c6c6;
+		padding-bottom: 1em;
+	}
+	footer .row:last-child  {
+		padding: 2em 0;
+	}
+	footer .row:last-child .grid-center-content {
+		height: 200px;
+	}
+	footer .grid-center-content {
+		text-align: left;
+		height: 140px;
+	}
+	ul.icon-app li img {
+			width: 150px;
+			margin: 0 auto;
+			display: block;
+	}
+	ul.icon-app {
+		display:block;
+	}
+	.social ul li a .grid-center-content {
+		height: 46px;
+		font-size: 16px;
+		line-height: 1.3;
+	}
+	.social ul li a .grid-center-content:last-child {
+		padding-left: 10px;
+	}
+	.social ul li a .grid-center-content span {
+		display: block;
+		font-size: 12px;
+	}
+	.social ul li a .grid-center-content:first-child {
+		width: 40px;
+	}
+	.social ul li a:hover,
+	.info-footer li a:hover{
+		color: #b5121c;
+		text-decoration: none;
+	}
+	.app-link,
+	.info-footer h1,
+	.social ul li a .grid-center-content {
+		font-size: 16px;
+		text-transform: uppercase;
+		color: #454545;
+		font-weight: 600;
+	}
+	.info-footer h1 {
+		border-bottom: 1px solid #c6c6c6;
+		padding: 0 0 10px;
+	}
+	.info-footer li {
+		padding: 2px 0;
+		font-size: 13px;
+	}
+	.app-link .grid-center-content &gt; div {
+		float: left !important;
+		margin: 0 15px;
+	}
+	.app-link .grid-center-content &gt; div:first-child {
+		margin-bottom: 8px;
+		margin-left: 0;
+		padding: 0;
+	}
+	.app-link ul {
+		width: calc(100% + 20px);
+		margin-left: -10px;
+	}
+	.app-link ul li {
+		width: calc(50% - 15px);
+		display: inline-block;
+		padding: 10px;
+	}
+	.cinemark-logo img {
+		max-width: 245px;
+		width: 100%;
+	}
+	.footer-menu {
+		width: 100%;
+	}
+	#accordionMenu {
+		display: none;
+	}
+	/*ACCORDION*/
+	#accordionMenu h4 {
+		border-bottom: 1px solid #c6c6c6;
+		text-align: left;
+		font-size: 16px;
+		text-transform: uppercase;
+		color: #454545;
+		font-weight: 600;
+		font-family: 'Roboto Condensed', sans-serif;
+		padding: 15px;
+		margin-bottom: 0;
+		position: relative;
+	}
+	.accordion-content {
+		background: #ffffff;
+		text-align: left;
+		padding: 14px 20px;
+	}
+	.accordion-content li {
+		padding: 2px 0;
+		font-size: 13px;
+	}
+	.accordion-content li a:hover {
+		color: #b5121c;
+		text-decoration: none;
+	}
+	#accordionMenu .accordion-toggle:after {
+		display: block;
+		font-family: 'FontAwesome';
+		position: absolute;
+		width: 14px;
+		height: 100%;
+		font-size: 12px;
+		/* line-height: 45px; */
+		top: 17px;
+		right: 15px;
+		background: transparent;
+		text-align: center;
+		content: '\f078';
+		color: #454545;
+		left: inherit;
+	}
+	.accordion-toggle {cursor: pointer;}
+	.accordion-content {display: none;}
+	.accordion-content.default {display: block;}
+	/*END ACCORDION*/
+@media (max-width:1366px){
+	.info-footer h1{
+		min-height: 52px;
+	}
+}
+
+	@media (max-width: 768px) {
+		.info-container,
+		.social-title {
+			display: none !important;
+		}
+		
+		ul.icon-app li img {
+			max-width: 100%;
+			margin: 0 auto;
+			display: block;
+		}
+
+		footer .social li {
+			min-width: initial;
+			margin: 0 5px;
+		}
+
+		footer .social li img {
+			height: 45px;
+		}
+
+		.social ul li a .grid-center-content:first-child {
+			width: 60px;
+		}
+		footer .grid-center-content {
+			text-align: center;
+			height: initial;
+			padding: 15px 0;
+		}
+		footer .footer-inner {
+			padding: 0;
+		}
+		#accordionMenu {
+			display: block;
+			width: calc(100% + 30px);
+			margin-left: -15px;
+		}
+		footer .row:last-child .grid-center-content {
+			height: 0;
+		}
+	}
+	
+	@media (max-width: 500px) {
+		ul.icon-app li img {
+			max-width: 100%;
+			margin: 0 auto;
+			display: block;
+		}
+	}
+</style>
+<footer id="footer"><div class="footer-inner"><div class="footer-container"><div class="row social-container"><div class="social col-sm-8 col-lg-8"><div class="grid-center-container"><ul class="grid-center-content"><li><a href="https://www.facebook.com/Cinemark.Colombia" target="_blank" class="grid-center-container"><div class="grid-center-content"><img src="https://cinemarkla.modyocdn.com/uploads/d711e895-c55e-42de-bffd-c7af87522525/original/ico-footer-facebook.png" alt="facebook" /></div> <div class="grid-center-content social-title">
+                                                  Facebook
+                                                  <span>Cinemark.Colombia</span></div></a></li> <li><a href="https://twitter.com/CinemarkCol?lang=es" target="_blank" class="grid-center-container"><div class="grid-center-content"><img src="https://cinemarkla.modyocdn.com/uploads/8ceb143d-b1a5-448f-bfbe-34deb8063c13/original/ico-footer-twitter.png" alt="twitter" /></div> <div class="grid-center-content social-title">
+                                                  Twitter
+                                                  <span>CinemarkCol</span></div></a></li> <li><a href="https://www.instagram.com/cinemarkcol/" target="_blank" class="grid-center-container"><div class="grid-center-content"><img src="https://cinemarkla.modyocdn.com/uploads/eb856297-b6ec-47b6-b57d-e2b534123ce3/original/ico-footer-instagram.png" alt="instagram" /></div> <div class="grid-center-content social-title">
+                                                  Instagram
+                                                  <span>cinemarkcol</span></div></a></li></ul></div></div> <div class="app-link col-sm-4 col-lg-4"><div class="grid-center-container"><div class="grid-center-content"><div class="col-xs-12 col-lg-12">Descarga la app</div> <ul class="icon-app"><li><a href="https://play.google.com/store/apps/details?id=com.apptory.cinemark&amp;hl=es_CL"><img src="https://cinemarkla.modyocdn.com/uploads/cad6a114-1847-4cf6-a245-0d18f549eb2f/original/googlePlay.png" alt="googleplay" /></a></li> <li><a href="https://itunes.apple.com/co/app/cinemark-colombia/id577800992?mt=8"><img src="https://cinemarkla.modyocdn.com/uploads/0865f5d7-85fc-4f99-8cae-dd4d46b4c93f/original/appStore.png" alt="appstore" /></a></li></ul></div></div></div></div> <div class="row"><div class="col-sm-3 col-lg-3"><div class="grid-center-container"><div class="grid-center-content"><div class="cinemark-logo"><img src="https://cinemarkla.modyocdn.com/uploads/a8852d98-cd8b-4029-a316-dbb44b8632f2/original/cinemark-logo.png" alt="Cinemark" /></div></div></div></div> <div class="col-sm-9 col-lg-9"><div class="grid-center-container"><div class="grid-center-content"><div class="footer-menu row info-container"><div class="col-sm-3 col-lg-3 info-footer"><h1>Programación</h1> <ul><li><a href="https://www.cinemark.com.co/peliculas?tag=790">Cartelera</a></li> <li><a href="https://www.cinemark.com.co/peliculas?pre_sale=true&amp;tag=790">Próximamente</a></li> <li><a href="https://www.cinemark.com.co/peliculas?pre_sale=true&amp;tag=790">Preventas</a></li></ul></div> <div class="col-sm-3 col-lg-3 info-footer"><h1>Sobre Cinemark</h1> <ul><li><a href="https://www.cinemark.com.co/contactanos?tag=790#quienes-somos">Nosotros</a></li> <li><a href="https://www.cinemark.com.co/formatos?tag=790">Salas y Formatos</a></li> <li><a href="https://www.cinemark.com.co/contactanos?tag=790#legales">Términos y condiciones</a></li> <li><a href="https://www.cinemark.com.co/encuesta-de-servicio?tag=790">Encuesta de servicio</a></li></ul></div> <div class="col-sm-3 col-lg-3 info-footer"><h1>Marketing Empresarial</h1> <ul><li><a href="https://www.cinemark.com.co/marketingempresarial?tag=790#corporativo">Ventas Corporativas</a></li> <li><a href="https://www.cinemark.com.co/marketingempresarial?tag=790#pantallas">Publicidad</a></li> <li><a href="https://www.cinemark.com.co/marketingempresarial?tag=790#eventos">Eventos</a></li></ul></div> <div class="col-sm-3 col-lg-3 info-footer"><h1>Contacto</h1> <ul><li><a href="https://preguntas.cinemark.com.co/hc/es/requests/new" target="_blank">Escríbenos</a></li> <li><a href="https://www.cinemark.com.co/contactanos?tag=790#trabaja">Trabaja con nosotros</a></li></ul></div></div> <div id="accordionMenu"><div id="accordion"><h4 class="accordion-toggle">Programación</h4> <div class="accordion-content"><ul><li><a href="https://www.cinemark.com.co/peliculas?tag=790">Cartelera</a></li> <li><a href="https://www.cinemark.com.co/peliculas?pre_sale=true&amp;tag=790">Próximamente</a></li> <li><a href="https://www.cinemark.com.co/peliculas?pre_sale=true&amp;tag=790">Preventas</a></li></ul></div> <h4 class="accordion-toggle">Sobre Cinemark</h4> <div class="accordion-content"><ul><li><a href="https://www.cinemark.com.co/contactanos?tag=790#quienes-somos">Nosotros</a></li> <li><a href="https://www.cinemark.com.co/formatos?tag=790">Salas y Formatos</a></li> <li><a href="https://www.cinemark.com.co/conocenos?tag=790#legal">Términos y condiciones</a></li> <li><a href="https://www.cinemark.com.co/encuesta-de-servicio?tag=790">Encuesta de servicio</a></li></ul></div> <h4 class="accordion-toggle">Marketing Empresarial</h4> <div class="accordion-content"><ul><li><a href="https://www.cinemark.com.co/marketingempresarial?tag=790#corporativo">Ventas Corporativas</a></li> <li><a href="https://www.cinemark.com.co/marketingempresarial?tag=790#pantallas">Publicidad</a></li> <li><a href="https://www.cinemark.com.co/marketingempresarial?tag=790#eventos">Eventos</a></li></ul></div> <h4 class="accordion-toggle">Contacto</h4> <div class="accordion-content"><ul><li><a href="https://preguntas.cinemark.com.co/hc/es/requests/new" target="_blank">Escríbenos</a></li> <li><a href="https://www.cinemark.com.co/contactanos?tag=790#trabaja">Trabaja con nosotros</a></li></ul></div></div></div></div></div></div></div></div></div></footer>
+
+     </div>
+</div>
+</div>
+          
+          
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","141030160037727");fbq("track","PageView");</script>
+<noscript>&lt;img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=141030160037727&amp;amp;ev=PageView&amp;amp;noscript=1"&gt;</noscript>
+
+<script type="text/javascript" id="">fbq("track","Purchase",{currency:"COP"});</script>
+<script src="https://www.cinemark.com.co/session/user.js">
+          </script>
+          <script type="text/javascript" src="https://mi.cinemark.com.co/widgets/session.js?site=c59925ff-f7c9-4d5a-9a11-033c403d77bd&amp;locale=es">
+          </script>
+          <div id="modyo-session" style="display: none"><div id="modyo-session-header"><a id="session-bubble" class="signIn" href="https://www.cinemark.com.co/me" style="display: inline;"><span class="plus">+</span></a><div class="wrap-signin"><div class="wrap-tabs hide"><div id="session-login" class="modyo-tabs-panel"><div class="modyo-header-wrap modyo-header-login">
+      <div class="logo">
+        <a href="/"><img class="R360x160" src="https://cinemarkco.modyocdn.com/uploads/8bf4564f-29f4-44cd-8d1b-778c557d551d/R480x90/Logo-Cinemark-RED.png" alt="Logo cinemark red" /></a>
+      </div>
+      <button class="close nav-manager-close">×</button>
+</div>
+
+<div class="modyo-inner">
+      <div class="no-modyo-session">
+            <div class="form-inner" id="oauth2-form">
+      <div class="modyo-header-login" style="padding-top: 0">
+    <p></p><p sanitize="true">Si ya eres socio Elite Gold ingresa tus datos o si olvidaste tu contraseña <a href="https://www.cinemark.com.co/reset-password">recupérala aquí</a><a></a></p><p></p>
+</div>
+
+<div id="modyo-session-oauth2" style="padding-top: 40px">
+  <form method="post" action="https://mi.cinemark.com.co/auth/oauth2/authorize?site=c59925ff-f7c9-4d5a-9a11-033c403d77bd">
+    <input type="hidden" name="authenticity_token" id="authenticity_token" value="4pMCiVeTOSgyrZxlVP+PJEqF8JJGlOmG0Y0msrNAtOJKP+vp3PQWEtF75X5GnOLKVIV3Jmy59aE/g+xAxgKRcQ==" />
+    <div class="form-group">
+      <input type="email" id="username" name="username" class="form-control" placeholder="Correo Electrónico" />
+    </div>
+
+    <div class="form-group">
+      <input type="password" id="password" name="password" class="form-control" autocomplete="off" placeholder="Contraseña" />
+    </div>
+
+    <input type="submit" name="commit" value="Entrar" data-disable-with="Entrar" class="btn-modyo btn-modyo-primary btn-modyo-full" />
+  </form>
+</div>
+
+    </div>
+
+        <script>
+          window.jj(document).on('ready', function() {
+            window.jj("#modyo-form").hide();
+            window.jj("#oauth2-form").removeClass("hide");
+            return false;
+          });
+        </script>
+
+      </div>
+</div></div><div id="session-reset-password" class="modyo-tabs-panel hide"><form class="simple_form owner" action="https://mi.cinemark.com.co/password/send_link?site_uuid=c59925ff-f7c9-4d5a-9a11-033c403d77bd" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓" /><input type="hidden" name="authenticity_token" value="lW/eTG8Ym/pbJ9EncyawZbsWf/1qW5CpJsKthMpRz7I9wzcs5H+0wLjxqDxhRd2LpRb4SUB2jI7IzGd2vxPqIQ==" />
+  <div class="modyo-header-login">
+    <h3 class="__margin-b">Reestablecer mi contraseña</h3>
+    <p>Te enviaremos un correo electrónico con un enlace temporal para actualizar tu contraseña.</p>
+  </div>
+  <div class="modyo-inner">
+    <div class="form-group">
+      <input type="email" name="username" id="username" class="form-control" placeholder="Email" input_html="{:autocomplete=&gt;&quot;off&quot;}" />
+    </div>
+    <div class="form-group">
+      <input type="submit" name="commit" value="Enviar" data-disable-with="Guardando ..." class="btn-modyo btn-modyo-primary btn-modyo-full" />
+      <div class="text-right __margin-t">
+        <a href="#modyo-session-login" class="backtologin">Cancelar</a>
+      </div>
+    </div>
+  </div>
+</form></div></div></div></div></div>
+          
+          <script id="widget-definition-manager" url="https://www.cinemark.com.co" src="/assets/site/libs/manager-9ea3c353467e24c216f26f68f0033d3b83afc8470a5789d79eb060d414f270de.js" ie-polyfill="/assets/site/libs/ie_polyfill-830499007308c7fe3729d598ead5ad1bf305e3e1ebefb940009f871120ac53f6.js?features=Promise,fetch&amp;flags=gated&amp;callback=window.cb"></script>
+
+    
+
+
+
+    
+<style type="text/css">#modyo-session .btn-modyo-primary,#modyo-session .btn-modyo-primary:hover,#modyo-session .btn-modyo-primary:focus,#modyo-session .btn-modyo-primary:active,#modyo-session .modyo-header,#modyo-session .three-bounce &gt; div {background: #e40001;} #modyo-session .nav-tabs &gt; li.active &gt; a { border-color: #e40001 } </style><style type="text/css">#modyo-session .signIn {background: #555555;} </style><style type="text/css">#modyo-backdrop {background: #000000;} </style></body></html>

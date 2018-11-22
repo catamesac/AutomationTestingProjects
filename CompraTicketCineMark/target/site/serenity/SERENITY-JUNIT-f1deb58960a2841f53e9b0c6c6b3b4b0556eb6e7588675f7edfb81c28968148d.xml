@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Comprar boleto de Pelicula en Cinemark" skipped="0" tests="1" time="16.69" timestamp="2018-11-21 09:03:45"><testcase name="Compra exitosa"><failure message="&#10;Expected: &quot;\&quot;Una entrevista con Dios\&quot;&quot;&#10;     but: was &quot;Una entrevista con Dios&quot;" type="java.lang.AssertionError">
+Expected: "\"Una entrevista con Dios\""
+     but: was "Una entrevista con Dios"</failure><system-err>
+Expected: "\"Una entrevista con Dios\""
+     but: was "Una entrevista con Dios"&#13;
+co.com.cinemark.certificacion.compra.stepsdefinitions.CinemarkStepsDefinitions.busco_la_pelicula_y_la_selecciono(CinemarkStepsDefinitions.java:42)&#13;
+✽.busco la pelicula "Una entrevista con Dios" y la selecciono(src/test/resources/features/ComprarTicketCinemark.feature:8)&#13;
+</system-err></testcase></testsuite>
