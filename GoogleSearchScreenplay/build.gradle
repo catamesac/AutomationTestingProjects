@@ -1,0 +1,41 @@
+
+apply plugin: 'java-library'
+repositories{
+
+	mavenLocal()
+	mavenCentral()
+ 	jcenter()
+ 
+ }
+// In this section you declare where to find the dependencies of your project
+buildscript{
+repositories {
+    // Use jcenter for resolving your dependencies.
+    // You can declare any Maven/Ivy/file repository here.
+	mavenLocal()
+	mavenCentral()
+ 	jcenter()
+}
+
+dependencies {
+   
+    
+    classpath("net.serenity-bdd:serenity-gradle-plugin:2.0.8")
+}
+}
+
+apply plugin:'java'
+apply plugin:'eclipse'
+apply plugin:'idea'
+apply plugin:'net.serenity-bdd.aggregator'
+
+dependencies{
+	testCompile ("net.serenity-bdd:serenity-core:2.0.8");
+	testCompile ("net.serenity-bdd:serenity-junit:2.0.8");
+	testCompile ("junit:junit:4.12");
+	testCompile ("org.assertj:assertj-core:1.7.0");
+	testCompile ("org.slf4j:slf4j-simple:1.7.7");
+	compile group: 'net.serenity-bdd', name:'serenity-cucumber',version:'1.9.20'
+}
+gradle.startParameter.continueOnFailure = true
+test.finalizedBy(aggregate)
