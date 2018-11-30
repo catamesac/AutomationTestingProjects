@@ -1,0 +1,82 @@
+[
+  {
+    "line": 4,
+    "elements": [
+      {
+        "line": 8,
+        "name": "Realizar busqueda en google",
+        "description": "",
+        "id": "buscar-en-el-navegador-de-google;realizar-busqueda-en-google",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2199696047,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Que lanze el navegador de goole",
+            "match": {
+              "location": "BusquedaEnGoogleTiempo.que_lanze_el_navegador_de_goole()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 797515519,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Abro la pagina de inicio de google",
+            "match": {
+              "location": "BusquedaEnGoogleTiempo.abro_la_pagina_de_inicio_de_google()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2048389996,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "busco \"El tiempo en miami\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"El tiempo en miami\"",
+                  "offset": 6
+                }
+              ],
+              "location": "BusquedaEnGoogleTiempo.busco(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      }
+    ],
+    "name": "Buscar en el navegador de google",
+    "description": "yo quiero buscar el tiempo en miami en google",
+    "id": "buscar-en-el-navegador-de-google",
+    "keyword": "Feature",
+    "uri": "Features/BusquedaGoogleTiempo.Feature",
+    "tags": [
+      {
+        "name": "@tag",
+        "type": "Tag",
+        "location": {
+          "line": 3,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
