@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login in new tours page" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-11-19T13:12:51" hostname="RC-PC" time="12.718">
+  <properties/>
+  <testcase name="Login in new tours" classname="Login in new tours page" time="12.718"/>
+  <system-out><![CDATA[    ?[32mGiven ?[0m?[32mThe new tours page?[0m                ?[90m# NewtoursStepDefinition.the_new_tours_page()?[0m
+    ?[32mWhen ?[0m?[32mI fill the user and password field?[0m ?[90m# NewtoursStepDefinition.i_fill_the_user_and_password_field()?[0m
+    ?[32mAnd ?[0m?[32mClick the submit button?[0m             ?[90m# NewtoursStepDefinition.click_the_submit_button()?[0m
+Logre logear
+    ?[32mThen ?[0m?[32mI access to a new page?[0m             ?[90m# NewtoursStepDefinition.i_access_to_a_new_page()?[0m
+]]></system-out>
+  <system-err><![CDATA[nov 19, 2018 8:12:52 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a) on port 44845
+Only local connections are allowed.
+nov 19, 2018 8:12:56 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Login in new tours
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
