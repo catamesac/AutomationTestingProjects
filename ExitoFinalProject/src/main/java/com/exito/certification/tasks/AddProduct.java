@@ -1,5 +1,8 @@
 package com.exito.certification.tasks;
 
+import static com.exito.certification.userinterfaces.ExitoSearchPage.ADD_ONE_MORE_ARTICLE;
+import static com.exito.certification.userinterfaces.ExitoSearchPage.ADD_TO_SHOPPING_CART;
+
 /*
  * Clase que adiciona un articulo más y adicina los articulos al carro de compras
  */
@@ -14,18 +17,16 @@ import net.serenitybdd.screenplay.actions.Scroll;
 
 public class AddProduct implements Task{
 	
-	private ExitoSearchPage exitoSearchPage;
-
 	@Override
 	public <T extends Actor> void performAs(T actor) {
 		//El actor cierra la ventana emergente si la detecta
 		actor.attemptsTo(ClosePopUp.closeTheWisepop());
 		
 		//EL actor busca los botones y les da click
-		actor.attemptsTo(Scroll.to((exitoSearchPage.ADD_ONE_MORE_ARTICLE)),
-						 Click.on(exitoSearchPage.ADD_ONE_MORE_ARTICLE),
-						 Scroll.to(exitoSearchPage.ADD_TO_SHOPPING_CART),
-						 Click.on(exitoSearchPage.ADD_TO_SHOPPING_CART));
+		actor.attemptsTo(Scroll.to((ADD_ONE_MORE_ARTICLE)),
+						 Click.on(ADD_ONE_MORE_ARTICLE),
+						 Scroll.to(ADD_TO_SHOPPING_CART),
+						 Click.on(ADD_TO_SHOPPING_CART));
 		
 	}
 	

@@ -1,4 +1,6 @@
 package com.exito.certification.tasks;
+import static com.exito.certification.userinterfaces.ExitoLoginPage.EXITO_LOGIN_ICON;
+
 /*
  * Clase para ingresas a la página del Login
  */
@@ -15,7 +17,7 @@ public class GoToLogin implements Task {
 	
 	@Override //Sobreescribe el método de una clase padre 
 	public <T extends Actor> void performAs(T actor) {		
-		actor.attemptsTo(Click.on(ExitoLoginPage.EXITO_LOGIN_ICON));	
+		actor.attemptsTo(Click.on(EXITO_LOGIN_ICON));	
 	}
 	
 	//constructor

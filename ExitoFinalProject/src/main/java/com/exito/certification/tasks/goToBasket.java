@@ -1,5 +1,7 @@
 package com.exito.certification.tasks;
 
+import static com.exito.certification.userinterfaces.ExitoBuyPage.EXITO_SHOPPING_CART_ICON;
+
 import com.exito.certification.userinterfaces.ExitoBuyPage;
 
 import net.serenitybdd.screenplay.Actor;
@@ -14,7 +16,7 @@ public class goToBasket implements Task {
 
 	@Override
 	public <T extends Actor> void performAs(T actor) {
-		actor.attemptsTo(Click.on(ExitoBuyPage.EXITO_SHOPPING_CART_ICON));	
+		actor.attemptsTo(Click.on(EXITO_SHOPPING_CART_ICON));	
 	}
 	
 	//Constructor

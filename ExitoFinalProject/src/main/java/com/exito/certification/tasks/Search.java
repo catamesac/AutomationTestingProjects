@@ -1,4 +1,7 @@
 package com.exito.certification.tasks;
+import static com.exito.certification.userinterfaces.ExitoSearchPage.EXITO_SEARCH_BOX;
+import static com.exito.certification.userinterfaces.ExitoSearchPage.EXITO_SEARCH_BUTTON;
+
 /*
  * Clase que ingresa la informacion del producto a buscar en la casilla de búsqueda
  */
@@ -18,8 +21,6 @@ public class Search implements Task {
 	
 	//Declaro el tipo de producto 
 	private List<TheProduct> theProduct;
-	//Declaro la interfaz de la que voy a obtener los Target
-	private ExitoSearchPage exitoSearchPage;
 	
 	
 	//Declaro el set que me obtiene los datos de la lista 
@@ -30,8 +31,8 @@ public class Search implements Task {
 	@Override
 	public <T extends Actor> void performAs(T actor) {
 		 //Se escribe el termino a buscar obtenido del feature y le doy click a buscar
-		actor.attemptsTo(Enter.theValue(theProduct.get(0).getProduct()).into(exitoSearchPage.EXITO_SEARCH_BOX));
-		actor.attemptsTo(Click.on(exitoSearchPage.EXITO_SEARCH_BUTTON));	
+		actor.attemptsTo(Enter.theValue(theProduct.get(0).getProduct()).into(EXITO_SEARCH_BOX));
+		actor.attemptsTo(Click.on(EXITO_SEARCH_BUTTON));	
 	
 	}
 	

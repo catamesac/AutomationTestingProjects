@@ -1,5 +1,11 @@
 package com.exito.certification.tasks;
 
+import static com.exito.certification.userinterfaces.ExitoBuyPage.EXITO_CARD_DUES;
+import static com.exito.certification.userinterfaces.ExitoBuyPage.EXITO_CARD_ID_BOX;
+import static com.exito.certification.userinterfaces.ExitoBuyPage.EXITO_CARD_NUMBER_BOX;
+import static com.exito.certification.userinterfaces.ExitoBuyPage.EXITO_CREDIT_CARD_CHOOSE;
+import static com.exito.certification.userinterfaces.ExitoBuyPage.EXITO_PAYMENT_CONFIRMATION_BUTTON;
+
 /*
  * Clase que ingresa la informacion tomada del feature a los campos de método de pago
  */
@@ -19,8 +25,7 @@ public class FillThePaymentFields implements Task{
 	//Defino la lista que obtendra los datos
     private PaymentData paymentDataFill;
 	
-    //Defino la interfaz que me otorga los Target
-	private ExitoBuyPage exitoBuyPage;
+
 	
 	//Declaro el set que me obtiene los datos de la lista 
 	public FillThePaymentFields(PaymentData paymentDataFill) {
@@ -34,12 +39,12 @@ public class FillThePaymentFields implements Task{
 	public <T extends Actor> void performAs(T actor) {
 		
 		//Actor busca el método de pago y le da click. Además ingresa los datos del método de pago
-		actor.attemptsTo(Scroll.to(exitoBuyPage.EXITO_CREDIT_CARD_CHOOSE));	
-		actor.attemptsTo(Click.on(exitoBuyPage.EXITO_CREDIT_CARD_CHOOSE),
-				Enter.theValue(paymentDataFill.getCardName()).into(exitoBuyPage.EXITO_CARD_ID_BOX),
-				SelectFromOptions.byVisibleText(paymentDataFill.getDuesNumber().toUpperCase()).from(exitoBuyPage.EXITO_CARD_DUES),//Selector para menu desplegable numero de cuotas
-				Enter.theValue(paymentDataFill.getCardNumber()).into(exitoBuyPage.EXITO_CARD_NUMBER_BOX),
-				Click.on(exitoBuyPage.EXITO_PAYMENT_CONFIRMATION_BUTTON));	
+		actor.attemptsTo(Scroll.to(EXITO_CREDIT_CARD_CHOOSE));	
+		actor.attemptsTo(Click.on(EXITO_CREDIT_CARD_CHOOSE),
+				Enter.theValue(paymentDataFill.getCardName()).into(EXITO_CARD_ID_BOX),
+				SelectFromOptions.byVisibleText(paymentDataFill.getDuesNumber().toUpperCase()).from(EXITO_CARD_DUES),//Selector para menu desplegable numero de cuotas
+				Enter.theValue(paymentDataFill.getCardNumber()).into(EXITO_CARD_NUMBER_BOX),
+				Click.on(EXITO_PAYMENT_CONFIRMATION_BUTTON));	
 		
 	}
 	
