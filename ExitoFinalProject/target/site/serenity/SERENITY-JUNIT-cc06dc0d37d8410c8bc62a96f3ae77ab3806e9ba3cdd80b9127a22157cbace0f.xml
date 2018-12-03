@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Go to Exito page" skipped="0" tests="1" time="216.03" timestamp="2018-12-02 10:01:27"><testcase name="Go to the Exito home page and do login"><failure message="-------XXXX LOGIN FAIL: Username or Password was wrong  XXXX------- - Expected exito login&#10;Expected: is &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">-------XXXX LOGIN FAIL: Username or Password was wrong  XXXX------- - Expected exito login
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;</failure><system-err>-------XXXX LOGIN FAIL: Username or Password was wrong  XXXX------- - Expected exito login
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;&#13;
+com.exito.certification.stepdefinitions.GoToThePageStepDefinition.heShouldBeLoggedIn(GoToThePageStepDefinition.java:55)&#13;
+✽.he should be logged in(src/test/resources/features/go_to_the_page.feature:24)&#13;
+</system-err></testcase></testsuite>

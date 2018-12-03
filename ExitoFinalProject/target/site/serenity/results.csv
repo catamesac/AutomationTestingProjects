@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Buy the selected item","Buy the item selected","SUCCESS","2018-12-02T21:59:32.482-05:00[America/Bogota]","0.0","101.93"
+"Go to Exito page","Go to the Exito home page and do login","FAILURE","2018-12-02T22:01:27.994-05:00[America/Bogota]","0.0","216.03"
+"Select product to buy","Title of your scenario outline","SUCCESS","2018-12-02T22:05:05.434-05:00[America/Bogota]","0.0","85.31"
