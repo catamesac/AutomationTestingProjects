@@ -1,2 +1,2 @@
-# SemilleroSophos
-Retos y proyectos hechos durante el semillero de pruebas automatizadas en Sophos 
+# RetosAutomatizacion
+Retos y proyectos hechos para pruebas de automatizadas  
